@@ -1,0 +1,8 @@
+set t_kl=OD
+set t_kr=OC
+set t_ku=OA
+set t_kd=OB
+imap <ESC>oA <ESC>k
+imap <ESC>oB <ESC>j
+imap <ESC>oC <ESC>l
+imap <ESC>oD <ESC>h

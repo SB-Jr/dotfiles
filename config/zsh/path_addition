@@ -1,0 +1,19 @@
+export PATH=$PATH:/home/sbjr/my_bin/scripts
+export PATH=$PATH:/home/sbjr/my_bin/bin
+export PATH=$PATH:/home/sbjr/.local/bin
+export PATH=$PATH:/home/sbjr/.gem/ruby/2.7.0/bin
+export PATH=$PATH:/home/sbjr/my_bin/anaconda3/envs/tf-gpu-py3.8/lib/python3.8/site-packages
+
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64/
+
+
+#proton settings
+export STEAM_COMPAT_DATA_PATH=$HOME/proton
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+
+source $(dirname $(gem which colorls))/tab_complete.sh
+
+
