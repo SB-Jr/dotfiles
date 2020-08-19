@@ -1,0 +1,16 @@
+.p10k.zsh 
+.vimrc 
+.xinitrc 
+.xscreensaver 
+.zshrc
+.config/bspwm/
+.config/dmenu_hotkeys/
+.config/dunst/
+.config/picom/
+.config/polybar/
+.config/rofi/
+.config/sxhkd/
+.config/vim/
+.config/zsh/
+.config/greenclip.cfg
+.config/rofimoji.rc
